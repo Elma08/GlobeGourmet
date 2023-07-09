@@ -67,6 +67,13 @@
     display: block; /* Make the buttons appear below each other */
   }
 
+  
+    .btn-group a {
+      color: white; /* White text */
+      text-align: center
+      font-family: 'Lato', sans-serif;
+  }
+
   .btn-group button {
   margin-right: auto;
   margin-left: auto;
