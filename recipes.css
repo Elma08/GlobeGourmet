@@ -30,3 +30,17 @@
   .checked {
     color: orange;
   }
+
+h1 {padding: 30px;
+  text-align: center;
+  background: #008BA1;
+  color: white;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold; 
+  font-size: 30px;}
+
+  #collapseOne {
+    background-color:#6eb5be;}
+
+   #collapseTwo {
+      background-color:#6eb5be;}

@@ -5,10 +5,10 @@
     padding: 40px;
     text-align: center;
     background: #008BA1;
-    background: color: white;
+    color: white;
     font-family: 'Lato', sans-serif;
     font-weight: bold; 
-    font-size: 20px;
+    font-size: 30px;
   }
 
 .topnav {
@@ -50,6 +50,15 @@
     /* padding: 20px;
     width: 50%; */
   }
+
+  #maincontent { background-color:#8ccbec;}
+  .aaccordion-item { background-color:#8ccbec;}
+
+  #MoreInfo {
+    background-color:#008BA1;}
+
+  #collapseOne {
+    background-color:#008BA1;}
 
   .btn-group button {
     background-color: #2794a3; /* Green background */
