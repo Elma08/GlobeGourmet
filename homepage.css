@@ -10,6 +10,14 @@
     font-size: 30px;
   }
 
+  .logo {
+       border-radius: 50%;
+        overflow: hidden;
+        float: left;
+        position: absolute;
+    }
+
+  
 
   body {
     background-color: #111;
